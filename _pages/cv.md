@@ -16,5 +16,5 @@ redirect_from:
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <iframe src="https://drive.google.com/file/d/1lHwSuRjpQvGLKbKLESW2Yf2tcokJKt5P/view?usp=drive_link" width="100%" height="800" frameborder="0" style="border: 1px solid #ddd; max-width: 900px;"></iframe>
+  <iframe src="https://drive.google.com/file/d/1lHwSuRjpQvGLKbKLESW2Yf2tcokJKt5P/preview" width="100%" height="800" frameborder="0" style="border: 1px solid #ddd; max-width: 900px;"></iframe>
 </div>
